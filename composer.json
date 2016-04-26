@@ -23,7 +23,7 @@
    "classmap": [
       "./Module.php",
       "src/"
-    ]
+    ],
    "autoload-dev": {
      "psr-4": {
        "Nnx\\Member\\User\\PhpUnit\\Test\\": "test/phpunit/tests",
