@@ -3,7 +3,7 @@
  * @link    https://github.com/nnx-skeleton/nnx-member-user
  * @author  Plitakov Dmitry  <plitakov94@gmail.com>
  */
-namespace NnxMember\Member\PhpUnit\Test;
+namespace NnxMember\User\PhpUnit\Test;
 
 use Zend\Loader\AutoloaderFactory;
 use Zend\Loader\StandardAutoloader;
