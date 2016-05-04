@@ -13,7 +13,7 @@
     "doctrine/doctrine-orm-module": "0.*",
     "nnx/doctrine": "0.1.*"
   },
-  "require-dev": {
+  "require-dev":  {
     "fabpot/php-cs-fixer": "~1.11.0",
     "phpunit/phpunit": "~4.8.0",
     "phpunit/phpcov": "~2.0.0",
