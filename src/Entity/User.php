@@ -12,7 +12,7 @@ use Doctrine\ORM\Mapping as ORM;
 
 /**
  * Class User
- * @package NnxMember\User\Entity
+ * @package NnxSkeleton\User\Entity
  *
  * @ORM\Entity()
  * @ORM\Table(name="users")
