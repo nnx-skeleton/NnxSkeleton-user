@@ -5,7 +5,7 @@
  * Date: 27.04.16
  * Time: 14:09
  */
-namespace NnxMember\User\Entity;
+namespace NnxSkeleton\User\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 //use Nnx\Doctrine\Annotation\DiscriminatorEntry;
