@@ -1,5 +1,5 @@
 {
-    "name": "nnx-skeleton/user",
+    "name": "nnx-skeleton-member/user",
     "description": "Service User",
     "type": "library",
     "authors": [
@@ -24,7 +24,7 @@
 
     "autoload": {
         "psr-4": {
-            "NnxSkeleton\\User\\": "src/"
+            "NnxSkeletonMember\\User\\": "src/"
         },
         "classmap": [
             "./Module.php",
@@ -33,8 +33,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "NnxSkeleton\\User\\PhpUnit\\Test\\": "test/phpunit/tests",
-            "NnxSkeleton\\User\\PhpUnit\\TestData\\": "test/phpunit/_files"
+            "NnxSkeletonMember\\User\\PhpUnit\\Test\\": "test/phpunit/tests",
+            "NnxSkeletonMember\\User\\PhpUnit\\TestData\\": "test/phpunit/_files"
         },
         "classmap": [
             "./test/phpunit/Bootstrap.php",
