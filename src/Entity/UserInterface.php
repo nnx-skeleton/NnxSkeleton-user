@@ -5,11 +5,11 @@
  * Date: 27.04.16
  * Time: 14:13
  */
-namespace NnxSkeleton\User\Entity;
+namespace NnxSkeletonMember\User\Entity;
 
 /**
  * Interface UserInterface
- * @package NnxSkeleton\User\Entity
+ * @package NnxSkeletonMember\User\Entity
  */
 interface UserInterface
 {

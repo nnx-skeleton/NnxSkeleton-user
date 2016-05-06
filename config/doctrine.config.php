@@ -6,12 +6,12 @@
  * Time: 12:32
  */
 
-namespace NnxSkeleton\User;
+namespace NnxSkeletonMember\User;
 
 return [
     'doctrine' => [
         'driver' => [
-            'NnxSkeletonUserEntity' => [
+            'NnxSkeletonMemberUserEntity' => [
                 'cache' => 'array',
                 'paths' => [__DIR__ . '/../src/Entity'],
                 'class' => \Doctrine\ORM\Mapping\Driver\AnnotationDriver::class,
