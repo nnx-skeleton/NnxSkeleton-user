@@ -8,7 +8,9 @@
 namespace NnxSkeletonMember\User;
 
 $config = [
-
+    Module::CONFIG_KEY => [
+        'objectManagerName' => 'doctrine.entitymanager.nnx_skeleton_member_user'
+    ],
 ];
 
 return array_merge_recursive(
