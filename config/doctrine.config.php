@@ -9,6 +9,9 @@
 namespace NnxSkeletonMember\User;
 
 return [
+    Module::CONFIG_KEY => [
+        'objectManagerName' => 'doctrine.entitymanager.nnx_skeleton_member_user'
+    ],
     'doctrine' => [
         'driver' => [
             'NnxSkeletonMemberUserEntity' => [
